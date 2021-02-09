@@ -1,3 +1,3 @@
 # JournalApp
 
-Una aplicación para llevar mi diario hecha con React y Redux.
+Una aplicación " agenda " de mi dia a dia ,  hecha con React y Redux.
