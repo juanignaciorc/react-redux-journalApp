@@ -23,7 +23,7 @@ export const JournalScreen = () => {
                     : (<NothingSelected />)
                 }
                 {/* <NothingSelected /> */}
-                <NoteScreen />
+                {/*<NoteScreen />*/}
 
             </main>
 
